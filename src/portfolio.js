@@ -254,9 +254,9 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "J-HUB Hackathon League",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -275,9 +275,9 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Chief Minister Merit Overseas Scholarship",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Awarded to the top 200 students in Telangana State.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -289,8 +289,8 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Interviewed Dr. APJ Abdul Kalam",
+      subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
