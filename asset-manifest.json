@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7c207907.css",
-    "main.js": "/static/js/main.b625b73b.js",
+    "main.js": "/static/js/main.f51f6ee4.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/static/js/990.567a0b93.chunk.js",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/OsmaniaLogo.png": "/static/media/OsmaniaLogo.23388381de53fabf3fca.png",
+    "static/media/PaceLogo.png": "/static/media/PaceLogo.d62a8823b12f464a360a.png",
     "static/media/resume.pdf": "/static/media/resume.cd95a7088c864fd70c02.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -26,7 +26,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.7c207907.css.map": "/static/css/main.7c207907.css.map",
-    "main.b625b73b.js.map": "/static/js/main.b625b73b.js.map",
+    "main.f51f6ee4.js.map": "/static/js/main.f51f6ee4.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.7c207907.css",
-    "static/js/main.b625b73b.js"
+    "static/js/main.f51f6ee4.js"
   ]
 }
