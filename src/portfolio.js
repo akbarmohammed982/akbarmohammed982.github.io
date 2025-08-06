@@ -127,22 +127,24 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Pace University",
-      logo: require("./assets/images/PaceLogo.png"),
+      logo: require("./assets/images/PaLogo.jpg"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2023 - December 2024",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Integrated myUniversity coursework with practical experience by contributing as a DevOps assistant on a client-facing project.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed an Android app, Wellspring, to help students track moods, analyze trends, and access mental health resources.",
+        "I developed Task-Genie, a service booking platform using Python and PostgreSQL that reduced deployment time by 40% using automated CI/CD pipelines with Jenkins."
       ]
     },
     {
       schoolName: "Osmania University",
-      logo: require("./assets/images/OsmaniaLogo.png"),
+      logo: require("./assets/images/OsLogo.jpeg"),
       subHeader: "Bachelor of Engineering in Electronics and communication",
       duration: "August 2018 - June 2022",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Ranked top 10% in the program. Took courses about Software Engineerin, Operating Systems.",
+      descBullets: ["Developed a Smart Water Management System using wireless sensors to automate irrigation based on crop water requirements and environmental conditions.",
+        "Integrated sensors to monitor soil moisture and rainfall, sending data to an Arduino for real-time decision-making and optimal water usage."
+      ]
     }
   ]
 };
