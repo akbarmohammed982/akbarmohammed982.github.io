@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Pace University",
-      logo: require("./assets/images/PaLogo.jpg"),
+      logo: require("./assets/images/palog.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2023 - December 2024",
       desc: "Integrated myUniversity coursework with practical experience by contributing as a DevOps assistant on a client-facing project.",
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "Osmania University",
-      logo: require("./assets/images/OsLogo.jpeg"),
+      logo: require("./assets/images/oslog.png"),
       subHeader: "Bachelor of Engineering in Electronics and communication",
       duration: "August 2018 - June 2022",
       desc: "Ranked top 10% in the program. Took courses about Software Engineerin, Operating Systems.",
