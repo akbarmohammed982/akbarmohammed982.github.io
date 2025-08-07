@@ -225,34 +225,36 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SIGNIFICANT PROJECTS COMPLETED DURING MY MASTER'S AND UNDERGRAD",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/taskgenie.png"),
+      projectName: "Task-Genie",
+      projectDesc:
+        "Developed a service booking platform using Django and PostgreSQL. Implemented secure user authentication, booking, and payments. Automated CI/CD with Jenkins, reducing deployment time by 40%.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "GitHub Repository",
+          url: "https://github.com/akbarmohammed982/CAPSTONE-PROJECT"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/wellspring.png"),
+      projectName: "Well-Spring",
+      projectDesc:
+        "Android app for students to track moods, analyze trends, and access mental health resources. Built using Kotlin, Jetpack Compose, and Firebase with chart integration.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "GitHub Repo",
+          url: "https://github.com/CS639-WellSpring/WellSpring"
         }
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true
 };
+
 
 // Achievement Section
 // Include certificates, talks etc
