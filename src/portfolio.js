@@ -177,38 +177,28 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Mars Technominds Inc",
-      companylogo: require("./assets/images/marsLogo.png"), // Replace with actual Mars logo file
-      date: "Feb 2025 – Present",
-      desc: "Collaborated with the development team to design and maintain efficient code, debug software, and monitor performance across production environments.",
+      company: "Facebook",
+      companylogo: require("./assets/images/facebookLogo.png"),
+      date: "June 2018 – Present",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Implemented innovative solutions to enhance product functionality and user experience.",
-        "Participated in sprint planning, technical discussions, and documentation to streamline SDLC and support agile workflows."
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      role: "Research Assistant – Smart City Project",
-      company: "Pace University",
-      companylogo: require("./assets/images/palog.png"), // Replace with actual Pace logo file
-      date: "Jan 2024 – May 2024",
-      desc: "Developed a real-time traffic monitoring system as part of a university smart city initiative.",
-      descBullets: [
-        "Built a cross-platform PWA using Ionic React and JavaScript for web and mobile compatibility.",
-        "Integrated geolocation and device motion sensors for live traffic, congestion, and accident tracking.",
-        "Enabled route planning and push notification alerts to improve commuter safety and awareness."
-      ]
+      role: "Front-End Developer",
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 – May 2018",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Trainee Developer",
-      company: "A3 RCM Healthcare Pvt Ltd",
-      companylogo: require("./assets/images/rcmLogo.png"), // Replace with actual A3 RCM logo file
-      date: "Dec 2021 – Jan 2023",
-      desc: "Worked on healthcare automation tools and dashboards to improve clinical documentation and data integration processes.",
-      descBullets: [
-        "Built an Automated Coding Audit Tool using Python and SQL, reducing manual review time by 50%.",
-        "Developed a CDI Dashboard to visualize key clinical metrics in real time using SQL and React.",
-        "Integrated Java-based data pipelines following FHIR standards to streamline risk adjustment processes."
-      ]
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
 };
@@ -269,7 +259,7 @@ const achievementSection = {
         "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
       image: require("./assets/images/jhub.png"),
       imageAlt: "Google Code-In Logo",
-      /*footerLink: [
+      footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
@@ -282,7 +272,7 @@ const achievementSection = {
           name: "Google Code-in Blog",
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
-      ]*/
+      ]
     },
     {
       title: "Chief Minister Merit Overseas Scholarship",
@@ -290,12 +280,12 @@ const achievementSection = {
         "Awarded to the top 200 students in Telangana State.",
       image: require("./assets/images/tssc.jpeg"),
       imageAlt: "Google Assistant Action Logo",
-      /*footerLink: [
+      footerLink: [
         {
           name: "View Google Assistant Action",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
-      ]*/
+      ]
     },
 
     {
@@ -303,13 +293,13 @@ const achievementSection = {
       subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
       image: require("./assets/images/aoj.png"),
       imageAlt: "PWA Logo",
-      /*footerLink: [
+      footerLink: [
         {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
         }
-      ]*/
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
