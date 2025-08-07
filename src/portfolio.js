@@ -257,7 +257,7 @@ const achievementSection = {
       title: "J-HUB Hackathon League",
       subtitle:
         "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/jhub.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -278,7 +278,7 @@ const achievementSection = {
       title: "Chief Minister Merit Overseas Scholarship",
       subtitle:
         "Awarded to the top 200 students in Telangana State.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/tssc.jpeg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -291,7 +291,7 @@ const achievementSection = {
     {
       title: "Interviewed Dr. APJ Abdul Kalam",
       subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/aoj.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
