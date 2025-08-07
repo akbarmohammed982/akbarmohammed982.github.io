@@ -259,7 +259,7 @@ const achievementSection = {
         "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
       image: require("./assets/images/jhub.png"),
       imageAlt: "Google Code-In Logo",
-      footerLink: [
+      /*footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
@@ -272,7 +272,7 @@ const achievementSection = {
           name: "Google Code-in Blog",
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
-      ]
+      ]*/
     },
     {
       title: "Chief Minister Merit Overseas Scholarship",
@@ -280,12 +280,12 @@ const achievementSection = {
         "Awarded to the top 200 students in Telangana State.",
       image: require("./assets/images/tssc.jpeg"),
       imageAlt: "Google Assistant Action Logo",
-      footerLink: [
+      /*footerLink: [
         {
           name: "View Google Assistant Action",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
-      ]
+      ]*/
     },
 
     {
@@ -293,13 +293,13 @@ const achievementSection = {
       subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
       image: require("./assets/images/aoj.png"),
       imageAlt: "PWA Logo",
-      footerLink: [
+      /*footerLink: [
         {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
         }
-      ]
+      ]*/
     }
   ],
   display: true // Set false to hide this section, defaults to true
