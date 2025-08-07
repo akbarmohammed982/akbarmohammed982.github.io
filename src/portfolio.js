@@ -270,21 +270,24 @@ const achievementSection = {
       subtitle:
         "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
       image: require("./assets/images/jhub.png"),
-      imageAlt: "Google Code-In Logo"
+      imageAlt: "Google Code-In Logo",
+      footerLink: []
     },
     {
       title: "Chief Minister Merit Overseas Scholarship",
       subtitle:
         "Awarded to the top 200 students in Telangana State.",
       image: require("./assets/images/tssc.jpeg"),
-      imageAlt: "Google Assistant Action Logo"
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: []
     },
 
     {
       title: "Interviewed Dr. APJ Abdul Kalam",
       subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
       image: require("./assets/images/aoj.png"),
-      imageAlt: "PWA Logo"
+      imageAlt: "PWA Logo",
+      footerLink: []
     }
   ],
   display: true // Set false to hide this section, defaults to true
