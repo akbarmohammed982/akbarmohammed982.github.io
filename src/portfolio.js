@@ -272,9 +272,6 @@ const achievementSection = {
       image: require("./assets/images/jhub.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
-        {
-          name: "Certification", url: ""
-        }
       ]
     },
     {
@@ -284,9 +281,6 @@ const achievementSection = {
       image: require("./assets/images/tssc.jpeg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
-        {
-          name: "Certification", url: ""
-        }
       ]
     },
 
@@ -296,9 +290,6 @@ const achievementSection = {
       image: require("./assets/images/aoj.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {
-          name: "Certification", url: ""
-        }
       ]
     }
   ],
