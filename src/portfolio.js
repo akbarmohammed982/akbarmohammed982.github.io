@@ -225,7 +225,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SIGNIFICANT PROJECTS COMPLETED DURING MY MASTER'S AND UNDERGRAD",
+  subtitle: "SIGNIFICANT PROJECTS COMPLETED DURING MY MASTER'S",
   projects: [
     {
       image: require("./assets/images/taskgenie.png"),
