@@ -271,7 +271,11 @@ const achievementSection = {
         "Secured 2nd position at a national-level hackathon organized by JNTU Hyderabad.",
       image: require("./assets/images/jhub.png"),
       imageAlt: "Google Code-In Logo",
-      footerLink: []
+      footerLink: [
+        {
+          name: "Certification", url: ""
+        }
+      ]
     },
     {
       title: "Chief Minister Merit Overseas Scholarship",
@@ -279,7 +283,11 @@ const achievementSection = {
         "Awarded to the top 200 students in Telangana State.",
       image: require("./assets/images/tssc.jpeg"),
       imageAlt: "Google Assistant Action Logo",
-      footerLink: []
+      footerLink: [
+        {
+          name: "Certification", url: ""
+        }
+      ]
     },
 
     {
@@ -287,7 +295,11 @@ const achievementSection = {
       subtitle: "Interviewed the late Former President of India regarding the Smart Water Management project.",
       image: require("./assets/images/aoj.png"),
       imageAlt: "PWA Logo",
-      footerLink: []
+      footerLink: [
+        {
+          name: "Certification", url: ""
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
