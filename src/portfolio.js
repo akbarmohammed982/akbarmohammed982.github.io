@@ -201,7 +201,7 @@ const workExperiences = {
     {
       role: "Trainee Developer",
       company: "A3 RCM Healthcare Pvt Ltd",
-      companylogo: require("./assets/images/rcmLogo.png"), // Replace with actual A3 RCM logo file
+      companylogo: require("./assets/images/rcmLogo.jpg"), // Replace with actual A3 RCM logo file
       date: "Dec 2021 – Jan 2023",
       desc: "Worked on healthcare automation tools and dashboards to improve clinical documentation and data integration processes.",
       descBullets: [
