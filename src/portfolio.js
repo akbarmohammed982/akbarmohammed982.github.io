@@ -26,7 +26,7 @@ const greeting = {
     "DevOps & Cloud Engineering Enthusiast ☁️⚙️ | Pursuing Excellence in Scalable Systems 📈, CI/CD Pipelines 🚀, and Infrastructure Automation 🛠️ | Building the Future One Deployment at a Time 💡➡️🖥️"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/10VndE3A_31RShtMGeZgh4TrAxoDB9mFL/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1GmgPjexf9WNLDBySqzKWusX2CPDxl786/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
